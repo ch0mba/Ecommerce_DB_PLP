@@ -5,6 +5,8 @@ https://github.com/ch0mba/Ecommerce_DB_PLP/blob/main/e_commerce_EDR_PLP.png
 
 
 
+
+
 Overview
 This repository contains the SQL scripts and documentation for designing and implementing a robust e-commerce database. The database is structured to support various features such as product management, variations (e.g., size and color), attributes (e.g., material, weight), and relationships between entities like brands, categories, and products.
 
